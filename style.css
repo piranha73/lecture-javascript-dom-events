@@ -1,0 +1,32 @@
+h1{}              /* Type Selector */
+.class-name{}     /* Class Selector */
+#players{}        /* ID Selector */
+
+.btn {
+    padding: .5em 2em;
+    border-radius: 4px;
+    color: white;
+    background-color: lightblue;
+    text-decoration: none;
+}
+
+.btn-red {
+    background-color: red;
+}
+
+.btn-active {
+    background-color: blue;
+}
+
+
+#players {
+    background-color: rgb(255, 21, 0);
+}
+
+#players li {
+    color: blue;
+}
+
+.random-numbers {
+    background-color: cyan;
+}
